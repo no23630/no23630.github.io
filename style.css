@@ -1,0 +1,125 @@
+
+.shibuya :hover {
+	background-color:red;
+	color: red;
+}
+.shibuya {
+	font-family:'Century Gothic';
+}
+.shi {
+	font-size:600%; 
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%; 
+	text-decoration:underline;
+	text-decoration-color: #E2A9F3;
+}
+
+.aki {
+	color:#BE81F7
+}
+	
+.ebi {
+	color: #F7BE81;
+}
+.to {
+	color: #DA81F5;
+}
+.harajuku :hover{
+	background-color:#819FF7;
+}
+.Odaiba :hover {
+	background-color:#F7819F;
+}
+
+.odai {
+	color:#F7819F;
+}
+.ASAKUSA :hover {
+	background-color:#BEF781;
+}
+
+.akihabara {
+	font-family:'Century Gothic';
+}
+.ASAKUSA {
+	font-family:'Century Gothic';
+}
+.harajuku {
+	font-family:'Century Gothic';
+}
+.Odaiba {
+	font-family:'Century Gothic';
+}
+
+
+.asa {
+	color:#BEF781;
+}
+.hara {
+	color:#819FF7;
+}
+.haraju {
+	color:#F781F3;
+}
+.shimokitaza {
+	color: #F7819F;
+}
+.shinjukuku {
+	color: #01DF74;
+}
+.akihabara :hover {
+	background-color:#BE81F7;
+}
+.Japan {
+	color: Dodgerblue;
+}
+.change :hover{
+	background-color: #A9BCF5;
+}
+.change {
+	font-family:'Century Gothic';
+}
+.shibuyaya {
+	color : blue;
+}
+
+
+.shinjuku :hover{
+	background-color:#A9F5BC;
+}
+.shinjuku {
+	font-family:'Century Gothic';
+}
+.shimokitazawa :hover{
+	background-color:#F7819F;
+}
+.shimokitazawa {
+	font-family:'Century Gothic';
+}
+
+.Tokyo :hover{
+	 background-color:#DA81F5;
+}
+
+.Tokyo {
+	font-family:'Century Gothic';
+}
+.Ebisu :hover{
+	background-color:#F7BE81;
+}
+.Ebisu {
+	font-family:'Century Gothic';
+}
+
+header { 
+     height: 1000px;
+}
+
+tr :hover{
+	background-color: #E2A9F3;
+}
+
+tr {
+	font-family: 'Century Gothic';
+}
